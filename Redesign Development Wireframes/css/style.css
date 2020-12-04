@@ -1260,7 +1260,7 @@ select {
 }
 
 .full-width-header .description p{
-	color:white;
+	color:yellow;
 }
 
 .full-width-header .description strong{
@@ -1268,7 +1268,7 @@ select {
 }
 
 .full-width-header .description p.h3{
-	color: #E56B00;
+	color: #007;
 }
 
 .full-width-header .background{
